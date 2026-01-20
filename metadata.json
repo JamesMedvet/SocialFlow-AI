@@ -1,0 +1,8 @@
+{
+  "name": "Social Flow AI",
+  "description": "Automação inteligente de conteúdo para redes sociais baseada em nichos, com geração de texto e imagem via IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
